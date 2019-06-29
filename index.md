@@ -8,7 +8,7 @@ layout: default
 
 * 1、 [About（项目概况）](documents/01-about)
 * 2、 [Team profile（团队组建与分工）](documents/02-team-profile)
-* 3、 Investigation（项目前期调研/竞品分析）
+* 3、 [Investigation（项目前期调研/竞品分析）](documents/03-investigation)
 * 4、 Vision（项目愿景）
 * 5、 Product Backlog （产品特性库）
 * 6、 Requirement specification（需求规格说明书）
