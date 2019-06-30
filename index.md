@@ -43,12 +43,12 @@ layout: default
   * [“闲余”项目会议纪要190421](documents/会议纪要/“闲余”项目会议纪要190421.md)
   * [“闲余”项目会议纪要190512](documents/会议纪要/“闲余”项目会议纪要190512.md)
 * X2 KANBAN
-  [“闲余”项目看板](https://github.com/xianyu-team/XianYu/projects)
+  * [“闲余”项目看板](https://github.com/xianyu-team/XianYu/projects)
 * X3 auditing-records
 * X4 Tech/Work Report
   * 学号-title
 
 * X5 Final Report
-  * 学号-title [16340252-谢桂鑫](https://blog.csdn.net/weixin_36304468/article/details/94312762)
+  *  [16340252-谢桂鑫](https://blog.csdn.net/weixin_36304468/article/details/94312762)
   
   * 小组分工与贡献率说明
