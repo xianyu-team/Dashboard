@@ -50,6 +50,6 @@ layout: default
 
 * X5 Final Report
   *  [16340252-谢桂鑫](https://blog.csdn.net/weixin_36304468/article/details/94312762)
-  * [16340035-陈伟昭]()
+  * [16340035-陈伟昭](https://blog.csdn.net/chenxz_/article/details/94418191)
   
   * 小组分工与贡献率说明
