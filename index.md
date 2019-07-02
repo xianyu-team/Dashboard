@@ -51,6 +51,6 @@ layout: default
 * X5 Final Report
   *  [16340252-谢桂鑫](https://blog.csdn.net/weixin_36304468/article/details/94312762)
   * [16340035-陈伟昭](https://blog.csdn.net/chenxz_/article/details/94418191)
-  * [16340039-陈星宇](http://utilcoder.com/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/Final%20Report/)
+  * [16340039-陈星宇](http://utilcoder.com/)
   
   * 小组分工与贡献率说明
