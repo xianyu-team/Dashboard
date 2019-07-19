@@ -50,9 +50,9 @@ layout: default
 
 * X5 Final Report
   *  [16340252-谢桂鑫](https://blog.csdn.net/weixin_36304468/article/details/94312762)
-  * [16340035-陈伟昭](https://blog.csdn.net/chenxz_/article/details/94418191)
-  * [16340039-陈星宇](http://utilcoder.com/)
-  * [16319058-许俊杰](https://blog.csdn.net/weixin_38873581/article/details/95025104)
-  * [16340034-陈伟桐](documents/x5-final-report-16340034.md)
-  
-  * 小组分工与贡献率说明
+  *  [16340035-陈伟昭](https://blog.csdn.net/chenxz_/article/details/94418191)
+  *  [16340039-陈星宇](http://utilcoder.com/)
+  *  [16319058-许俊杰](https://blog.csdn.net/weixin_38873581/article/details/95025104)
+  *  [16340034-陈伟桐](documents/x5-final-report-16340034.md)
+  *  [16340043-陈彦行](documents/x5-final-report-16340043.md)
+  *  小组分工与贡献率说明
